@@ -1,0 +1,75 @@
+.container {
+    position: relative;
+}
+/*.block_2{*/
+    /*background-color: #00a651;*/
+    /*width: 300px;*/
+    /*margin: auto;*/
+    /*height: 150px;*/
+    /*!*margin-top: -25px;*!*/
+    /*position: absolute;*/
+    /*top: -25px;*/
+    /*z-index: 0;*/
+
+/*}*/
+/*.block_1{*/
+    /*background-color: red;*/
+    /*width: 400px;*/
+    /*margin: auto;*/
+    /*height: 150px;*/
+    /*position: relative;*/
+    /*z-index: 1;*/
+/*}*/
+/*.block_3{*/
+     /*background-color: yellow;*/
+     /*width: 200px;*/
+     /*margin: auto;*/
+     /*height: 150px;*/
+ /*}*/
+body {
+    height: 2000px;
+}
+.block_4{
+    background-color: gray;
+    max-width: 400px;
+    margin: auto;
+    height: 300px;
+    position: relative;
+
+}
+
+.d6 {width: 0;
+    height: 0;
+    border-top: 20px solid transparent;
+    border-left: 40px solid red;
+    border-bottom: 20px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -20px;
+    margin-top: -30px;
+
+}
+a {
+    text-decoration: none;
+}
+ a.social {
+    color: #FF0000;
+    width: 30px;
+    height: 30px;
+    float: right;
+    background-color: red;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    }
+a.social i {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin: 5px;
+}
+
+.facebook .fa-facebook-f {
+    font-size: 22px;
+    margin: 9px 5px 0 12px;
+}
