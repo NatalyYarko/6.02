@@ -79,3 +79,9 @@ a.social i {
     height:100px;
 background-color: #FF0000;
 }
+
+.s {
+    width: 300px;
+    height:100px;
+    background-color: green;
+}
